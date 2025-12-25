@@ -19,7 +19,7 @@
 - CSS3 (Flexbox, Grid, Responsive Design)
 - JavaScript (DOM, Events, Basic Logic)
 - Git & GitHub
-- Basics of Python & Django (learning phase)
+
 
 ---
 
