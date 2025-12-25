@@ -1,48 +1,50 @@
 # 👋 Hi, I'm Ankit Omprakash Pathak
 
-Welcome to my GitHub! I'm a passionate learner aiming to become a Full Stack Developer and enter the tech industry with strong backend and frontend skills.
+Frontend-focused Web Developer helping individuals and small businesses
+build clean, responsive, and user-friendly websites.
+
+Ex-Sales Manager with strong client handling and communication skills.
 
 ---
 
-## 💼 About Me
-
-- 🔭 Currently learning: **Python + Django Backend**, MERN Stack, Machine Learning
-- 🎓 Education: TYBCom from Mumbai University
-- 🧠 Skills: Sales | Client Handling | Problem Solving
-- 💬 Ask me about freelancing, resume making, travel tech, or sales strategies
-- 📫 Email: pathakankit262@gmail.com
-- 📱 Phone: +91 7385790033
-- 🌍 Location: Mumbai, Maharashtra
+## 💼 What I Do
+- Build responsive business websites
+- Create personal portfolio websites
+- Fix UI, CSS & mobile responsiveness issues
+- Convert designs into HTML/CSS
 
 ---
 
-## 🚀 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
-![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django)
-![Git](https://img.shields.io/badge/-Git-orange?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+## 🛠️ Tech Stack
+- HTML5 (Semantic & SEO-friendly)
+- CSS3 (Flexbox, Grid, Responsive Design)
+- JavaScript (DOM, Events, Basic Logic)
+- Git & GitHub  
+- Python & Django (Learning – Backend)
 
 ---
 
-## ✨ Projects
+## ✨ Featured Projects
 
-| Project | Tech | Links |
-|--------|------|--------|
-| Personal Portfolio | HTML, CSS, JS | [Live Demo](#) • [GitHub](#) |
-| Resume Downloader | HTML + JS | [Live Demo](#) • [GitHub](#) |
-| Travel Booking App (Coming Soon) | Python + Django | 🚧 In Progress |
+### 🔹 Personal Portfolio Website
+Responsive portfolio website built using HTML, CSS & JavaScript  
+👉 Live Demo: **(Add Netlify link)**  
+👉 GitHub: **(Add repo link)**  
+
+### 🔹 Resume Downloader App
+Simple web app to download resume using JavaScript  
+👉 GitHub: https://github.com/Mrankit0777/resume-app  
+
+### 🔹 Business Website (Demo)
+Modern business website layout for small businesses  
+👉 Live Demo: **(Coming Soon)**  
 
 ---
 
-## 🔗 Connect with Me
+## 📫 Contact Me
+📧 Email: pathakankit262@gmail.com  
+📱 WhatsApp: +91 7385790033  
+🌍 Location: Mumbai, Maharashtra  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-pathak)  
-[📧 Email Me](mailto:pathakankit262@gmail.com) | 📱 WhatsApp: +91 7385790033
+⭐ Open to freelance projects & collaborations
 
----
-
-> “Stay healthy, stay happy.” — Ankit ✨
